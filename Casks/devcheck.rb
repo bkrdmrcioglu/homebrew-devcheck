@@ -17,7 +17,7 @@ cask "devcheck" do
   desc "Localhost HTTP header shield + App Store / Play prep"
   homepage "https://devsuites.dev/devcheck/"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "DevCheck.app"
 
