@@ -9,8 +9,8 @@
 #   https://github.com/bkrdmrcioglu/devcheck-site/releases/download/vX.Y.Z/DevCheck-X.Y.Z.zip
 
 cask "devcheck" do
-  version "0.2.2"
-  sha256 "277a5476c5fc42f18a818e1655527857e5001306a1eb26e50b887d462574dcf4"
+  version "0.2.3"
+  sha256 "b203924cfb84b176b328afdeff3a22bc8b10602a81bafaeb412fb91544067f85"
 
   url "https://github.com/bkrdmrcioglu/devcheck-site/releases/download/v#{version}/DevCheck-#{version}.zip"
   name "DevCheck"
