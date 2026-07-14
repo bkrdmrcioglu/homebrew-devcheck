@@ -9,10 +9,10 @@
 #   https://github.com/bkrdmrcioglu/devcheck-site/releases/download/vX.Y.Z/DevCheck-X.Y.Z.zip
 
 cask "devcheck" do
-  version "0.2.4"
-  sha256 "1bc4ecfc4cdcca86ae1487c13195f8e79041c1495ca22c435f70c44d322c0a66"
+  version "0.2.5"
+  sha256 "0e080c4c5589b28e1c243de8d6436306e2f2c3b45fd0aab80d0f588868ea2574"
 
-  url "https://github.com/bkrdmrcioglu/devcheck-site/releases/download/v#{version}/DevCheck-#{version}.zip"
+  url "https://github.com/bkrdmrcioglu/devcheck-site/releases/download/v0.2.5/DevCheck-0.2.5.zip"
   name "DevCheck"
   desc "Localhost HTTP header shield + App Store / Play prep"
   homepage "https://devsuites.dev/devcheck/"
