@@ -9,13 +9,8 @@
 #   https://github.com/bkrdmrcioglu/devcheck-site/releases/download/vX.Y.Z/DevCheck-X.Y.Z.zip
 
 cask "devcheck" do
-<<<<<<< Updated upstream
   version "0.2.4"
   sha256 "1bc4ecfc4cdcca86ae1487c13195f8e79041c1495ca22c435f70c44d322c0a66"
-=======
-  version "0.2.4"
-  sha256 "1bc4ecfc4cdcca86ae1487c13195f8e79041c1495ca22c435f70c44d322c0a66"
->>>>>>> Stashed changes
 
   url "https://github.com/bkrdmrcioglu/devcheck-site/releases/download/v#{version}/DevCheck-#{version}.zip"
   name "DevCheck"
