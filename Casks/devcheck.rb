@@ -1,8 +1,8 @@
 cask "devcheck" do
-  version "0.2.8"
-  sha256 "aa02071ea31de24fb17fddb92483f1c1c50dbcea51a70022aae331af71e03154"
+  version "0.2.9"
+  sha256 "e287db774cf619d09d04e4e29afdc40668327884b2dc341f85318744c8a3951a"
 
-  url "https://github.com/bkrdmrcioglu/devcheck-site/releases/download/v0.2.8/DevCheck-0.2.8.zip"
+  url "https://github.com/bkrdmrcioglu/devcheck-site/releases/download/v#{version}/DevCheck-#{version}.zip"
   name "DevCheck"
   desc "Part of DevSuites — see https://devsuites.dev/devcheck/"
   homepage "https://devsuites.dev/devcheck/"
